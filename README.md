@@ -1,3 +1,1 @@
-this is my readme file
-
-Enter instructions here
+this is awesome django framework repo.
