@@ -1,1 +1,1 @@
-This is an awesome repo for django framework repo 
+This is an awesome repo for django framework
