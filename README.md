@@ -1,1 +1,1 @@
-This is an awesome repo for n8n chnages
+This is an awesome repo for n8n framework changes
