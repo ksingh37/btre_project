@@ -1,1 +1,1 @@
-This is an awesome repo for n8n framework changes
+This is an awesome repo for django framework repo 
